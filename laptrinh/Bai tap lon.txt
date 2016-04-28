@@ -1,0 +1,6 @@
+C: Bai tap 1
+D3: (Jacobi) Bai tap 2
+Gauss: Bai tap 3
+Successiv: Bai tap 4
+D4: Bai tap 5
+E: Bai tap 6
